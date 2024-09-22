@@ -1,3 +1,9 @@
+
+/*Exercício 5
+PISCINA – Leia a altura e o raio (ambos em metros) de uma piscina redonda. Calcule e mostre a
+quantidade de água (em litros) necessária para encher essa piscina completamente. Arredonde o
+valor para cima.*/
+
 let tecla= require("readline-sync");
 
 // Leitura da altura e do raio da piscina
